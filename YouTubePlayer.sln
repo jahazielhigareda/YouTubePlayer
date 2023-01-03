@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YouTubePlayer", "YouTubePlayer\YouTubePlayer.csproj", "{AE95D1D9-16A0-443E-8440-CE9D8DE78FA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoutubePlayer.Core", "YoutubePlayer.Core\YoutubePlayer.Core.csproj", "{F5BE5348-F004-444A-A5F9-BB46B7BFA527}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoutubePlayer.Discord", "YoutubePlayer.Discord\YoutubePlayer.Discord.csproj", "{8AF055D5-578D-4934-8746-8F6F69224074}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE95D1D9-16A0-443E-8440-CE9D8DE78FA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE95D1D9-16A0-443E-8440-CE9D8DE78FA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE95D1D9-16A0-443E-8440-CE9D8DE78FA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE95D1D9-16A0-443E-8440-CE9D8DE78FA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5BE5348-F004-444A-A5F9-BB46B7BFA527}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5BE5348-F004-444A-A5F9-BB46B7BFA527}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5BE5348-F004-444A-A5F9-BB46B7BFA527}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5BE5348-F004-444A-A5F9-BB46B7BFA527}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AF055D5-578D-4934-8746-8F6F69224074}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AF055D5-578D-4934-8746-8F6F69224074}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AF055D5-578D-4934-8746-8F6F69224074}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AF055D5-578D-4934-8746-8F6F69224074}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00A00111-8CED-4E42-8853-5D49708AB08E}
+	EndGlobalSection
+EndGlobal
